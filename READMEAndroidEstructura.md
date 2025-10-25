@@ -94,7 +94,7 @@ app
 
 Gradle Scripts
 ├── build.gradle.kts (Project)            - Configuración de compilación para todo el proyecto (repositorios, versiones de plugins).
-├── build.gradle.kts (Module: app)        - Configuración específica para el módulo 'app' (dependencias, versión de la app, SDK mínimo).
+├── build.gradle.kts (Module: app)        
 ├── proguard-rules.pro                    - Reglas para ofuscar y reducir el tamaño del código en la versión final de la app.
 ├── gradle.properties                     - Propiedades globales para Gradle (ej. configuración de memoria para mejorar el rendimiento de la compilación).
 ├── gradle-wrapper.properties             - Define qué versión de Gradle usar, asegurando que todos los desarrolladores usen la misma.
